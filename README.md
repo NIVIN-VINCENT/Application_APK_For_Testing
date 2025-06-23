@@ -1,3 +1,3 @@
 # Application_APK_For_Testing
 
-dsdsddfdfd
+Makash Wallet Transfer monthly limit 10000
